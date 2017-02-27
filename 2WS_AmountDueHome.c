@@ -1,5 +1,4 @@
-// Type the number and convert it into loonies, pennies, nickels, whatever.
-//Galina Erostenko, ID 124330618
+// Type the number and convert it into loonies, nickels, dimes, pennies.
 
 #include<stdio.h>
 
