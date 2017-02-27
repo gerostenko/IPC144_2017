@@ -1,4 +1,4 @@
-// In-tome task
+//At-home task
 //temps.c
 
 #include <stdio.h>
