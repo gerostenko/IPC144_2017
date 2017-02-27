@@ -1,8 +1,6 @@
 /*
 == Vehicle Rentals ==
-Author	: Gayan Gamage
 Date	: 14-02-2017
-Revision: 1.0
 Workshop: #6 in-Lab
 */
 
