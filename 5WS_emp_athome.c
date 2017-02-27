@@ -1,7 +1,4 @@
 /*
-Name: Galina Erostenko
-Student number: 124330168
-Email: gerostenko@myseneca.ca
 Workshop: 5
 Section: IPC144
 Date: 02/14/2017
